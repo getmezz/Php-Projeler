@@ -1,0 +1,28 @@
+/***** CSS Document *****/
+
+
+/***** CSS Document *****/
+
+/***** CSS Document *****/
+
+/***** CSS Document *****/
+@media screen and (min-width:1280px){
+.top .cols-1 .column-1, .maintop .cols-1 .column-1, .bottom .cols-1 .column-1, .mainbottom .cols-1 .column-1, .footer .cols-1 .column-1 { float: left; width: 1160px; }
+.top .cols-2 .column-1, .maintop .cols-2 .column-1, .bottom .cols-2 .column-1, .mainbottom .cols-2 .column-1, .footer .cols-2 .column-1 { float: left; width: 570px; }
+.top .cols-2 .column-2, .maintop .cols-2 .column-2, .bottom .cols-2 .column-2, .mainbottom .cols-2 .column-2, .footer .cols-2 .column-2 { float: right; width: 570px; }
+.top .cols-3 .column-1, .maintop .cols-3 .column-1, .bottom .cols-3 .column-1, .mainbottom .cols-3 .column-1, .footer .cols-3 .column-1 { float: left; width: 373.33px; }
+.top .cols-3 .column-2, .maintop .cols-3 .column-2, .bottom .cols-3 .column-2, .mainbottom .cols-3 .column-2, .footer .cols-3 .column-2 { float: left; width: 373.33px; margin: 0px 0px 0px 20px; }
+.top .cols-3 .column-3, .maintop .cols-3 .column-3, .bottom .cols-3 .column-3, .mainbottom .cols-3 .column-3, .footer .cols-3 .column-3 { float: right; width: 373.33px; }
+.top .cols-4 .column-1, .maintop .cols-4 .column-1, .bottom .cols-4 .column-1, .mainbottom .cols-4 .column-1, .footer .cols-4 .column-1 { float: left; width: 275px; }
+.top .cols-4 .column-2, .maintop .cols-4 .column-2, .bottom .cols-4 .column-2, .mainbottom .cols-4 .column-2, .footer .cols-4 .column-2 { float: left; width: 275px; margin: 0px 0px 0px 20px; }
+.top .cols-4 .column-3, .maintop .cols-4 .column-3, .bottom .cols-4 .column-3, .mainbottom .cols-4 .column-3, .footer .cols-4 .column-3 { float: left; width: 275px; margin: 0px 0px 0px 20px; }
+.top .cols-4 .column-4, .maintop .cols-4 .column-4, .bottom .cols-4 .column-4, .mainbottom .cols-4 .column-4, .footer .cols-4 .column-4 { float: right; width: 275px; }
+.top .cols-5 .column-1, .maintop .cols-5 .column-1, .bottom .cols-5 .column-1, .mainbottom .cols-5 .column-1, .footer .cols-5 .column-1 { float: left; width: 216px; }
+.top .cols-5 .column-2, .maintop .cols-5 .column-2, .bottom .cols-5 .column-2, .mainbottom .cols-5 .column-2, .footer .cols-5 .column-2 { float: left; width: 216px; margin: 0px 0px 0px 20px; }
+.top .cols-5 .column-3, .maintop .cols-5 .column-3, .bottom .cols-5 .column-3, .mainbottom .cols-5 .column-3, .footer .cols-5 .column-3 { float: left; width: 216px; margin: 0px 0px 0px 20px; }
+.top .cols-5 .column-4, .maintop .cols-5 .column-4, .bottom .cols-5 .column-4, .mainbottom .cols-5 .column-4, .footer .cols-5 .column-4 { float: left; width: 216px; margin: 0px 0px 0px 20px; }
+.top .cols-5 .column-5, .maintop .cols-5 .column-5, .bottom .cols-5 .column-5, .mainbottom .cols-5 .column-5, .footer .cols-5 .column-5 { float: right; width: 216px; }
+}
+/***** CSS Document *****/
+
+/***** CSS Document *****/

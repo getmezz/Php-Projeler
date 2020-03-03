@@ -1,0 +1,23 @@
+/***** CSS Document *****/
+.header { background: #790000; }
+.header-outer { background: #790000; }
+@media screen and (min-width:1024px){
+.header { background: url(../images/red.png); }
+.header.affix { background: #790000; border-bottom: 1px solid #340000; }
+.header-spacer { background: #8e0000; }
+.header-outer { background: url(../images/red.png); }
+}
+/***** CSS Document *****/
+.navigation { background: #790000; border-top: 1px solid #340000; }
+.navbar { background: #790000; }
+.navbar .menu a, .navbar .menu .nav-header, .navbar .menu .separator { border-top: 1px solid #340000; }
+@media screen and (min-width:480px){
+.navigation { background: none; border-top: none; }
+}
+@media screen and (min-width:1024px){
+.navigation { border-top: 1px solid #340000; }
+.navigation.affix { border-top: none; }
+.navbar { background: none; }
+.navbar .menu a, .navbar .menu .nav-header, .navbar .menu .separator { border-top: none; }
+.navbar .menu ul { background: #790000; border: 1px solid #340000; box-shadow: 0px 0px 5px #340000; }
+}

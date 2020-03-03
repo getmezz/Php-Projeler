@@ -1,0 +1,22 @@
+/***** CSS Document *****/
+
+@media screen and (min-width:1024px){
+.header {  }
+.header.affix { background: #343554; border-bottom: 1px solid #0c0e54; }
+.header-spacer {  }
+.header-outer {  }
+}
+/***** CSS Document *****/
+.navigation {  }
+.navbar {  }
+.navbar .menu a, .navbar .menu .nav-header, .navbar .menu .separator {  }
+@media screen and (min-width:480px){
+.navigation {  }
+}
+@media screen and (min-width:1024px){
+.navigation {  }
+.navigation.affix { border-top: none; }
+.navbar {  }
+.navbar .menu a, .navbar .menu .nav-header, .navbar .menu .separator {  }
+.navbar .menu ul {  }
+}
